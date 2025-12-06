@@ -85,7 +85,7 @@ const Hero: React.FC = () => {
             </span>
             <div className="mt-2">
               <span className="text-[3.5rem] md:text-[4.5rem] lg:text-[5.5rem] leading-tight bg-gradient-to-r from-primary-light via-creative to-secondary bg-clip-text text-transparent block animate-fade-in-up opacity-0" style={{ animationDelay: '800ms' }}>
-                A Frontend Developer
+                A Full-stack  Developer
               </span>
             </div>
           </h1>
