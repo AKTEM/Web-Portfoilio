@@ -91,7 +91,7 @@ const Hero: React.FC = () => {
           </h1>
           
           <p className="mt-6 text-lg text-foreground/80 max-w-2xl animate-slide-up" style={{ animationDelay: '1200ms' }}>
-           Crafting intuitive and performant front-ends that users love to engage with.
+           Crafting intuitive and performant Websites that users love to engage with.
           </p>
           
           <div className="mt-8 flex flex-col sm:flex-row gap-4 animate-slide-up" style={{ animationDelay: '1400ms' }}>
