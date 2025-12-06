@@ -71,7 +71,7 @@ const About: React.FC = () => {
                       />
                     </div>
                     <h3 className="text-xl font-semibold">Emmanuel</h3>
-                    <p className="text-foreground/60 text-sm mt-1">Frontend Developer</p>
+                    <p className="text-foreground/60 text-sm mt-1">Full-stack Developer</p>
                   </div>
                 </div>
               </div>
