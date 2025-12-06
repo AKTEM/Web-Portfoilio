@@ -13,14 +13,14 @@ const About: React.FC = () => {
           <div className="order-2 md:order-1">
             <div className="space-y-6 text-foreground/80">
               <p className="animate-fade-in">
-                I'm a passionate Frontend developer with over 3 years of experience 
+                I'm a passionate Full-stack developer with over 3 years of experience 
                 creating beautiful, functional web applications. My journey in technology 
                 began with a deep curiosity about how digital experiences come to life.
               </p>
               
               <p className="animate-fade-in" style={{ animationDelay: '100ms' }}>
-                I specialize in modern JavaScript library/frameworks like React.js, Next.js and have 
-                extensive experience with Node.js, TypeScript, and various database 
+                I specialize in modern JavaScript library/frameworks like React.js, Next.js, and have 
+                extensive experience with Node.js, Express, TypeScript, and various database 
                 technologies. I'm committed to writing clean, maintainable code and creating 
                 intuitive user experiences.
               </p>
