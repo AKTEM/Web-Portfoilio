@@ -38,7 +38,7 @@ const About: React.FC = () => {
                 
                 <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                   {[
-                    '3+ years professional experience',
+                    '4 years professional experience',
                     'Worked with 15+ clients',
                     'Delivered 20+ successful projects',
                     'Remote work experience',
@@ -65,7 +65,7 @@ const About: React.FC = () => {
                   <div className="text-center p-6">
                     <div className="w-32 h-32 mx-auto mb-4 rounded-full overflow-hidden shadow-lg border-4 border-muted">
                       <img
-                        src="/img/ema.jpg"
+                        src="/img/Akin.JPG"
                         alt="Profile"
                         className="w-full h-full object-cover"
                       />
@@ -78,7 +78,7 @@ const About: React.FC = () => {
               
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-card rounded-lg shadow-lg flex items-center justify-center animate-scale-in">
                 <div className="font-mono text-sm">
-                  <div className="text-secondary font-semibold">3+</div>
+                  <div className="text-secondary font-semibold">4</div>
                   <div className="text-xs text-foreground/60">Years Exp.</div>
                 </div>
               </div>
