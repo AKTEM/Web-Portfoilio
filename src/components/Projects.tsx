@@ -32,7 +32,7 @@ const projects: Project[] = [
     imageUrl: 'img/Buildwell1.png',
     tags: ['TypeScript', 'Nextjs', 'Tailwind','Framer motion'],
     githubUrl: 'https://github.com/AKTEM/BuildWellReady',
-    liveUrl: 'https://buildwellafrica.vercel.app/',
+    liveUrl: 'https://buildwellafrica.com/',
     featured: true,
   },
   {
@@ -66,7 +66,7 @@ const projects: Project[] = [
     id: 6,
     title: 'Clicksixtytechnologies',
     description: 'A SaaS Product Detail Website',
-    imageUrl: '/img/click.png',
+    imageUrl: '/img/Cli.png',
     tags: ['Wordpress'],
     githubUrl: '',
     liveUrl: 'https://clicksixtytechnologies.com/',
@@ -87,8 +87,29 @@ const projects: Project[] = [
     imageUrl: '/img/Taxassist.png',
     tags: ['TypeScript', 'Nextjs', 'Tailwind','Framer motion'],
     githubUrl: 'https://github.com/AKTEM/tax-assist-hub',
-    liveUrl: 'https://tax-assist-hub-flame.vercel.app/',
+    liveUrl: 'https://taxassistsolutions.com/',
   },
+
+    {
+    id: 9,
+    title: 'Akilina Nigeria',
+    description: 'Logistics | Procurement & Import/Export',
+    imageUrl: '/img/Aki.png',
+    tags: ['TypeScript', 'Reactjs', 'Tailwind','Framer motion'],
+    githubUrl: '',
+    liveUrl: 'https://www.akilinanigeria.com/',
+  },
+
+    {
+    id: 10,
+    title: 'Kurt Hair',
+    description: 'Kuthair - Premium Hair Extensions & Wigs',
+    imageUrl: '/img/kuth.png',
+    tags: ['TypeScript', 'Reactjs', 'Tailwind','Framer motion', 'Firebase', 'Nodejs', 'API'],
+    githubUrl: '',
+    liveUrl: 'https://kuthair1.vercel.app/',
+  },
+
 ];
 
 const Projects: React.FC = () => {

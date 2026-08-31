@@ -73,7 +73,7 @@ const Contact: React.FC = () => {
                     href="mailto:hello@gallantcreative.com"
                     className="text-foreground/70 hover:text-primary-light transition-colors"
                   >
-                    gallantakin@gmail.com
+                    akintolasegunemmanuel@gmail.com
                   </a>
                 </div>
               </div>
